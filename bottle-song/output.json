@@ -1,0 +1,7 @@
+[{"description":"first generic verse","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"last generic verse","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"verse with 2 bottles","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"verse with 1 bottle","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"first two verses","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"last three verses","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"all verses","status":"pass","message":null,"output":null,"test_code":null,"task_id":null}]
