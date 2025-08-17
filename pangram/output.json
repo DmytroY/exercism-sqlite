@@ -1,0 +1,10 @@
+[{"description":"empty sentence","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"perfect lower case","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"only lower case","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"missing the letter 'x'","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"missing the letter 'h'","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"with underscores","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"with numbers","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"missing letters replaced by numbers","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"mixed case and punctuation","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"a-m and A-M are 26 different characters but not a pangram","status":"pass","message":null,"output":null,"test_code":null,"task_id":null}]
