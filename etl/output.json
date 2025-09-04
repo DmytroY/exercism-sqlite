@@ -1,0 +1,4 @@
+[{"name":"single letter","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"name":"single score with multiple letters","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"name":"multiple scores with multiple letters","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"name":"multiple scores with differing numbers of letters","status":"pass","message":null,"output":null,"test_code":null,"task_id":null}]
