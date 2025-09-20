@@ -1,0 +1,5 @@
+[{"name":"empty strand","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"name":"can count one nucleotide in single-character input","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"name":"strand with repeated nucleotide","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"name":"strand with multiple nucleotides","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"name":"strand with invalid nucleotides","status":"fail","message":"AGXXACT should be restricted from insertion","output":null,"test_code":null,"task_id":null}]
