@@ -1,0 +1,13 @@
+[{"description":"Smallest perfect number is classified correctly","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"Medium perfect number is classified correctly","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"Large perfect number is classified correctly","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"Smallest abundant number is classified correctly","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"Medium abundant number is classified correctly","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"Large abundant number is classified correctly","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"Smallest prime deficient number is classified correctly","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"Smallest non-prime deficient number is classified correctly","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"Medium deficient number is classified correctly","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"Large deficient number is classified correctly","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"Edge case (no factors other than itself) is classified correctly","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"Zero is rejected (as it is not a positive integer)","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"Negative integer is rejected (as it is not a positive integer)","status":"pass","message":null,"output":null,"test_code":null,"task_id":null}]
