@@ -1,0 +1,9 @@
+[{"description":"Orange and orange and black","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"Blue and grey and brown","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"Red and black and red","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"Green and brown and orange","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"Yellow and violet and yellow","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"Blue and violet and blue","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"Minimum possible value","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"Maximum possible value","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"First two colors make an invalid octal number","status":"pass","message":null,"output":null,"test_code":null,"task_id":null}]
