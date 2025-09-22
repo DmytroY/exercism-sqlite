@@ -2,7 +2,9 @@
 --        - Update table creation with constraints.
 DROP TABLE IF EXISTS "nucleotide-count";
 
-CREATE TABLE "nucleotide-count" ("strand" TEXT, "result" TEXT);
+CREATE TABLE "nucleotide-count" (
+  "strand" TEXT CHECK(NOT strand GLOB '*[!ACGT]*'),
+  "result" TEXT);
 
 -- Please don't change the following two import lines. Feel free to edit the previous lines, though.
 .mode csv

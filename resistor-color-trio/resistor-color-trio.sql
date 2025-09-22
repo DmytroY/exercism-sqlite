@@ -14,10 +14,10 @@ INSERT INTO "colors"(color, digit, sufix) VALUES
     ('white', 9, ' gigaohms');
 
 UPDATE "color_code"
-SET result = CONCAT(
+SET result = (
   CAST(((SELECT digit FROM colors WHERE "color_code".color1 = colors.color)*10 +
         (SELECT digit FROM colors WHERE "color_code".color2 = colors.color)
-        ) * pow(10, (SELECT digit FROM colors WHERE "color_code".color3 = colors.color)) AS INTEGER),
+        ) * pow(10, (SELECT digit FROM colors WHERE "color_code".color3 = colors.color)) AS INTEGER) ||
   ' ohms'  
 );
 
