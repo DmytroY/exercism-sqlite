@@ -1,0 +1,13 @@
+[{"description":"queen with a valid position","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"queen must have positive row","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"queen must have row on board","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"queen must have positive column","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"queen must have column on board","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"cannot attack","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"can attack on same row","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"can attack on same column","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"can attack on first diagonal","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"can attack on second diagonal","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"can attack on third diagonal","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"can attack on fourth diagonal","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"cannot attack if falling diagonals are only the same when reflected across the longest falling diagonal","status":"pass","message":null,"output":null,"test_code":null,"task_id":null}]
