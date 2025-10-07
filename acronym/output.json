@@ -1,0 +1,9 @@
+[{"description":"basic","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"lowercase words","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"punctuation","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"all caps word","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"punctuation without whitespace","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"very long abbreviation","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"consecutive delimiters","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"apostrophes","status":"pass","message":null,"output":null,"test_code":null,"task_id":null},
+{"description":"underscore emphasis","status":"pass","message":null,"output":null,"test_code":null,"task_id":null}]
